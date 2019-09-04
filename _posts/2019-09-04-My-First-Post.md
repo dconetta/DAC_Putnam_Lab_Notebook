@@ -4,6 +4,6 @@ title: My First Post
 tags: [beginnings]
 ---
 
-##Does this work?
+## Does this work?
 
 This is my first attempt at making a post! 
