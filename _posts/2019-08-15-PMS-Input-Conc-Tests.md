@@ -173,4 +173,4 @@ To keep all input volumes of sample ACR_221 consistent at 5.46uL I made four sto
 
 
 - [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/) for D5000 tapestation followed exactly
-- See [full results] ()
+- See [full results] (https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/tapestation.pdfs/2019-08-15%20-%20Titrations%20(100ng-10pg).pdf)
