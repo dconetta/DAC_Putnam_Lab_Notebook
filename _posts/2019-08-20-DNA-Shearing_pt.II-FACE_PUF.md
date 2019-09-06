@@ -62,5 +62,5 @@ _Sample 173 was completely redone and Sample 778 was done for the first time sin
 |ACR_221|4|1:00|653|Done|
 |ACR_161|5|1:15|685|1x 15s|
 |ACR_13|6|1:30|960|2x 15s|
-|ACR_778|5|1:15|728||
+|ACR_778|5|1:15|728|1x 15s|
 |ACR_209|6|1:30|606|Done|
