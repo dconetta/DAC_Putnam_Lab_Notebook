@@ -8,7 +8,7 @@ tags: [DNA, Shearing, BP Lengths, Sonicator]
 
 Using the Qubit Values from [Erin's Extractions 1](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Acropora-Larvae-DNA-RNA-Extraction-Batch-1/) and [Erin's Extractions 2](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Acropora-Larvae-DNA-RNA-Extraction-Batch-2/) I calculated how much volume of sample DNA I needed to input to get 1ug of DNA in 50uL of input volume.
 
-##Summary Table of Qubit Results##
+**Summary Table of Qubit Results**
 
 |Sample Id|Sample Type| Avg Concentration (ng/uL)|
 |----|-----|-----|
