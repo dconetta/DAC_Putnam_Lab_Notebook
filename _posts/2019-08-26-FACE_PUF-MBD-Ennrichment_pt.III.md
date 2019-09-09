@@ -1,20 +1,20 @@
 ---
 layout: post
-title: MBD Enrichment with Methyl Miner Kit pt.II
+title: MBD Enrichment with Methyl Miner Kit pt.III
 tags: [DNA, Methylation, Library Prep]
 ---
 
 ### Concentrating Methylated DNA via [Methyl Miner Kit](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-08-1-MethylMiner-test.md) for Samples ACR_790 and ACR_185
 
-MBD Enrichment for Sheared Samples [173](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [754](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), and [161](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md)
-Started this round of MBD Enrichment during the ethanol incubation step on 20190822 (See [Previous Post](https://dconetta.github.io/DAC_Putnam_Lab_Notebook/FACE_PUF-MBD-Ennrichment_pt.I/))
+MBD Enrichment for Sheared Samples [13](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [209](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [778](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), and [221](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-Sonication-Test.md)
+Started this round of MBD Enrichment on 20190826 for the remaining 4 FACE_PUF ACR Sperm Samples.
 
-First step was to write out the steps for the day so I would know how much 1X Bind/Wash Buffer to dilute, as it comes in 5X in the kit, that way it was ready when it was needed (2049µl needed, 2100µl was made to account for any error)
+First step was to write out the steps for the day so I would know how much 1X Bind/Wash Buffer to dilute, as it comes in 5X in the kit, that way it was ready when it was needed (3480µl needed, 3600µl was made to account for any error)
 
 **Preparing Beads**
 
 1. Pipetted up and down the Dynabeads M-280 Streptavidin to resuspend them
-2. Made 3, 1.5mL tubes, each with 10µl of Dynabeads (the amount recommended for less than or equal to 1µg of DNA input)
+2. Made 4, 1.5mL tubes, each with 10µl of Dynabeads (the amount recommended for less than or equal to 1µg of DNA input)
 3. Brought volume up to a total of 100µl with 90µl of 1X bind/wash buffer to each tube
 4. Pipetted to mix
 5. Placed tubes on long magnet rack and removed and discarded supernatant when clear
@@ -25,7 +25,7 @@ First step was to write out the steps for the day so I would know how much 1X Bi
 **Coupling MBD-Biotin Protein to the Beads**
 
 9. Thawed MBD-Biotin protein from -80 on ice
-10. Made 2 new 1.5mL tubes, each with 7µl of MBD-Biotin protein (amount recommended for 1µg of DNA input)
+10. Made 4 new 1.5mL tubes, each with 7µl of MBD-Biotin protein (amount recommended for 1µg of DNA input)
 11. Added 93µl of 1X bind/wash buffer to each tube to get up to a total of 100µl
 12. Transferred diluted protein to the washed bead tubes for a total volume of 200µl in each of 3 tubes
 13. Put samples on the rotisserie mixer for 1 hour at room temp
@@ -54,13 +54,17 @@ First step was to write out the steps for the day so I would know how much 1X Bi
 
 **DNA Capture Reaction**
 
-33. To 3 new 1.5mL tubes, added 20µl each of **5X** bind/wash buffer
-34. To the appropriate tube, added the 48µl (two tapestations run for these samples) of the DNA sample (173, 754, and 161 sheared)
-35. Brought volume up to a total of 100µl in each tube by adding 32µl of ultra pure water
+Steps 33-35 See Table
+|Sample|vol 5x Buffer (µl)|vol DNA (µl)| vol H2O (µl)|
+|----|-----|----|----|
+|13|20|48|32|
+|209|20|48|32|
+|778|20|50|30|
+|221|20|42|38|
 36. Transferred all of each diluted DNA sample to separate tubes with the MBD-Biotin bound beads for a total of 200µl in each tube and pipetted to mix
-37. Mixed on rotisserie mixer overnight at 4 degrees C in the cold room (Started spinning at 13:00)
+37. Mixed on rotisserie mixer overnight at 4 degrees C in the cold room (Started spinning at 11:51)
 
-**Aug 23rd 2019, Removing Non-Captured DNA**
+**Aug 27th 2019, Removing Non-Captured DNA**
 
 38. Again started by writing out protocol to calculate how much 1X bind/wash buffer to dilute (800µl needed)
 39. Took tubes out of the cold room rotisserie and spun down **briefly**
@@ -92,15 +96,18 @@ Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/1
 
 |Sample|vol glycogen (µl)|vol sodium acetate (µl)| vol 100% EtOH (µl)|
 |----|-----|----|----|
-|173 Non-Captured (NC)| 1 |20|400|
-|754 Non-Captured (NC)| 1|20|400|
-|161 Non-Captured (NC)| 1|20|400|
-|173 Washed Non-Captured (W)|1|40|800|
-|754 Washed Non-Captured (W)|1|40|800|
-|161 Washed Non-Captured (W)|1|40|800|
-|173 Captured (C)|1|40|800|
-|754 Captured (C)|1|40|800|
-|161 Captured (C)|1|40|800|
+|13 Non-Captured (NC)| 1 |20|400|
+|209 Non-Captured (NC)| 1|20|400|
+|778 Non-Captured (NC)| 1|20|400|
+|221 Non-Captured (NC)| 1|20|400|
+|13 Washed Non-Captured (W)|1|40|800|
+|209 Washed Non-Captured (W)|1|40|800|
+|778 Washed Non-Captured (W)|1|40|800|
+|221 Washed Non-Captured (W)|1|40|800|
+|13 Captured (C)|1|40|800|
+|209 Captured (C)|1|40|800|
+|778 Captured (C)|1|40|800|
+|221 Captured (C)|1|40|800|
 
 
 58. Vortexed to mix and spun down
@@ -119,15 +126,6 @@ Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/1
 70. Air dried pellet for 3 minutes
 71. Resuspended pellets in 60µl of ultra pure water
 
-**Broad Range DNA Qubit**
-
-72. Followed [Qubit protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/) for BR reagents
-
-|Sample|Standard 1 (RFU)| Standard 2 (RFU)| 1st reading (ng/ul)|Second reading (ng/ul)| Average ng/ul|
-|----|-----|-----|-----|-----|----|
-|173 NC| 186.91| 21621.62|8.86|8.80|8.83|
-|754 NC| 186.91|21621.62|7.72|7.66|7.69|
-|161 NC|186.91|21621.62|8.34|8.32|8.31|
 
 **High Sensitivity DNA Qubit**
 
@@ -135,9 +133,15 @@ Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/1
 
 |Sample|Standard 1 (RFU)| Standard 2 (RFU)| 1st reading (ng/ul)|Second reading (ng/ul)| Average ng/ul|
 |----|-----|-----|-----|-----|----|
-|173 W|57.41|23466.77|Too Low|Too Low|Too Low|
-|754 W|57.41|23466.77|0.256|.248|0.252|
-|161 W|57.41|23466.77|0.244|0.240|0.242|
-|173 C|57.41|23466.77|0.248|0.244|0.246|
-|754 C|57.41|23466.77|0.390|0.384|0.387|
-|161 C|57.41|23466.77|0.528|0.518|0.523|
+|13 C|43.28|26926.11|0.304|0.302|0.303|
+|209 C|43.28|26926.11|0.198|0.196|0.197|
+|778 C|43.28|26926.11|0.564|0.560|0.562|
+|221 C|43.28|26926.11|0.510|0.506|0.508|
+|13 NC|43.28|26926.11|6.04|6.02|6.03|
+|209 NC|43.28|26926.11|1.01|1.05|1.03|
+|778 NC|43.28|26926.11|5.80|5.78|5.79|
+|221 NC|43.28|26926.11|5.84|5.82|5.83|
+|13 W|43.28|26926.11|Too Low|Too Low|Too Low|
+|209 W|43.28|26926.11|Too Low|Too Low|Too Low|
+|778 W|43.28|26926.11|Too Low|Too Low|Too Low|
+|221 W|43.28|26926.11|Too Low|Too Low|Too Low|
