@@ -4,7 +4,7 @@ title: MBD Enrichment with Methyl Miner Kit pt.III
 tags: [DNA, Methylation, Library Prep]
 ---
 
-### Concentrating Methylated DNA via [Methyl Miner Kit](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-08-1-MethylMiner-test.md) for Samples ACR_790 and ACR_185
+### Concentrating Methylated DNA via [Methyl Miner Kit](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-08-1-MethylMiner-test.md) for Samples ACR_13, ACR_209, ACR_778 and ACR_221
 
 MBD Enrichment for Sheared Samples [13](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [209](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [778](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), and [221](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-Sonication-Test.md)
 Started this round of MBD Enrichment on 20190826 for the remaining 4 FACE_PUF ACR Sperm Samples.

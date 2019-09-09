@@ -4,7 +4,7 @@ title: MBD Enrichment with Methyl Miner Kit pt.II
 tags: [DNA, Methylation, Library Prep]
 ---
 
-### Concentrating Methylated DNA via [Methyl Miner Kit](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-08-1-MethylMiner-test.md) for Samples ACR_790 and ACR_185
+### Concentrating Methylated DNA via [Methyl Miner Kit](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-08-1-MethylMiner-test.md) for Samples ACR_173, ACR_754 and ACR_161
 
 MBD Enrichment for Sheared Samples [173](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [754](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), and [161](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md)
 Started this round of MBD Enrichment during the ethanol incubation step on 20190822 (See [Previous Post](https://dconetta.github.io/DAC_Putnam_Lab_Notebook/FACE_PUF-MBD-Ennrichment_pt.I/))
@@ -25,7 +25,7 @@ First step was to write out the steps for the day so I would know how much 1X Bi
 **Coupling MBD-Biotin Protein to the Beads**
 
 9. Thawed MBD-Biotin protein from -80 on ice
-10. Made 2 new 1.5mL tubes, each with 7µl of MBD-Biotin protein (amount recommended for 1µg of DNA input)
+10. Made 3 new 1.5mL tubes, each with 7µl of MBD-Biotin protein (amount recommended for 1µg of DNA input)
 11. Added 93µl of 1X bind/wash buffer to each tube to get up to a total of 100µl
 12. Transferred diluted protein to the washed bead tubes for a total volume of 200µl in each of 3 tubes
 13. Put samples on the rotisserie mixer for 1 hour at room temp
