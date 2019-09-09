@@ -7,7 +7,7 @@ tags: [DNA, Methylation, Library Prep]
 ### Concentrating Methylated DNA via [Methyl Miner Kit](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-08-1-MethylMiner-test.md) for Samples ACR_790 and ACR_185
 
 MBD Enrichment for Sheared Samples [173](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), [754](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md), and [161](https://github.com/dconetta/DAC_Putnam_Lab_Notebook/blob/master/_posts/2019-08-21-DNA-Shearing_pt.III-FACE_PUF.md)
-Started this round of MBD Enrichment during the ethanol incubation step on 20190822 (See [Previous Post]())
+Started this round of MBD Enrichment during the ethanol incubation step on 20190822 (See [Previous Post](https://dconetta.github.io/DAC_Putnam_Lab_Notebook/FACE_PUF-MBD-Ennrichment_pt.I/))
 
 First step was to write out the steps for the day so I would know how much 1X Bind/Wash Buffer to dilute, as it comes in 5X in the kit, that way it was ready when it was needed (1600µl needed, 1700µl was made to account for any error)
 
