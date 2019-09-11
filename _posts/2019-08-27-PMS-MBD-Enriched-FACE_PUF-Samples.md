@@ -73,7 +73,7 @@ _Example: ACR_790 = 0.545ng/uL ; (1ng)/(0.545ng/uL) = 1.83uL_
   - repeat back from the first step one time through again
   - **During hold, vortex, spin tubes down, add 0.3µl PrepAmp Polymerase to each tube, vortex, spin down, and place back into thermocycler**
   
-  ***Section 3: DNA Clean and Concentrator Columns (DCC)***
+***Section 3: DNA Clean and Concentrator Columns (DCC)***
 - Made a 1.5mL tube for each sample, added 7:1 ratio DNA binding buffer, so 250.81µl (Should have been 107.45uL) of DNA binding buffer and 15.35uL of Product
 - Put elution buffer in thermomixer 56 degrees
 - Added DNA sample (15.35µl) to the appropriate 1.5mL tube
@@ -88,7 +88,7 @@ _Example: ACR_790 = 0.545ng/uL ; (1ng)/(0.545ng/uL) = 1.83uL_
 - Incubated 1 minute
 - Centrifuged 12,000 rcf 30 seconds
 
-  ***Section 4: Second Amplification (Adapater Addition)***
+***Section 4: Second Amplification (Adapater Addition)***
 - Made 1st Amp master mix:
  - 12.5µl 2X Library Amp Mix * 9.2 = 115µl
  - 1µl Library Amp Primer(10µM) * 9.2 = 9.2µl
