@@ -25,7 +25,7 @@ Using the Qubit Values from [Erin's Extractions 1](https://echille.github.io/E.-
 
 Each input value was calculated by dividing 1000ng or 1ug by the average concentration of each sample to get the volume needed to input to the shearing process. The remainder of the 50uL input was supplemented with Ultra Pure Water.
 
-_For Example_
+_For _Example_
 
 Sample 790 had 58.3 ng/ul so (1000ng)/(58.3ng/uL) = 17.15uL of DNA Input
 
