@@ -28,13 +28,13 @@ For the [shearing protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebo
 
 	So: (1000ng) / (4.04ng/uL) = 247.52 uL required to get 1000ng or 1ug of input DNA
 	
-	_Since the volume is restricted to 50uL I just used 50uL of sample DNA (still about 50uL left just in case need to redo)_
+*Since the volume is restricted to 50uL I just used 50uL of sample DNA (still about 50uL left just in case need to redo)
 
 |Sample Id|DNA Input Vol (uL)| Water Input (uL)| Shear Time|
 |----|-----|-----|-----|
 |ACR_197|50|0|1:00|
 
-	Sheared for 1 minute (4 cycles of 15s on 15s of -> technically 2 minutes but 1 minute of actual shearing occuring) at 25% Amplification
+Sheared for 1 minute (4 cycles of 15s on 15s of -> technically 2 minutes but 1 minute of actual shearing occuring) at 25% Amplification
 
 
 **D5000 TapeStation**
@@ -52,8 +52,11 @@ After the shearing, I re-Qubited (HS Assay) the DNA to know exactly how much I w
 |ACR_197|4.00|3.86|3.88|
 
 1ng needed for input of the Pico Methyl Seq Kit
-	(1ng)/(3.88ng/uL) = 0.26uL
-		_Since _this _is _a _very _low _volume _and _is _prone _to _error _of _input _I _did _a _1:10 _dilution _(added _1 _uL _of _sheared _DNA _to _9uL _of _ultra _pure _water)_so _2.58uL _of _diluted _DNA _was _used.
+	(1ng)/(3.88ng/uL) = 0.258uL
+	
+*Since this is a very small volume and prone to errors in pipetting, did a 1:10 dilution. Added 1uL of sheared DNA to 9uL of ULtra Pure Water ;
+
+2.58uL of diluted DNA was inputed at the start of this Kit 
 
 |Sample|DNA Conc (ng/uL)|Volume of Input DNA (uL)|Volume of Water (uL)|
 |----|----|----|----|
