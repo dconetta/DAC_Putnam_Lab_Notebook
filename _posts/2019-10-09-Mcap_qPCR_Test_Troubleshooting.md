@@ -10,6 +10,7 @@ _Resuspension_ *Completed on 20191003
 Goal here is to make stock suspensions for the qPCR C and D Actin Primers and Probes - Run DNA through Qubit to make sure have enough
 
 IDTDNA Resuspension Instructions
+
 	1)Centrifuge lyopholized primers for 2 mins at 12,000 RCF
 	2) Add TE Buffer (modulated pH unlike H2O)
 		- Recommended to be no less than 1uM and no greater than 10mM
@@ -19,14 +20,17 @@ IDTDNA Resuspension Instructions
 				- Used Low TE -> 0.1mM EDTA vs 1 mM of EDTA in stock TE Buffer 
 				
 0.5uL of Forward Primers 100uM required in 1000uL diluted aliquots to get 50nM
+
 	- 999.5uL of Ultra Pure H2O
 	- 0.5uL of 100uM Forward Primers
 	
 0.75uL of Forward Primers 100uM required in 1000uL diluted aliquots to get 50nM
+
 	- 999.25uL of Ultra Pure H2O
 	- 0.75uL of 100uM Forward Primers
 	
 1uL of Forward Primers 100uM required in 1000uL diluted aliquots to get 50nM
+
 	- 999uL of Ultra Pure H2O
 	- 1 uL of 100uM Forward Primers
 
