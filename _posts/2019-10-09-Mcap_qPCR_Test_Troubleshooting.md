@@ -152,6 +152,7 @@ Samples Run Today: (All run in triplicate - 24 wells today used; A1-B12)
 	O13_t=0	
 	
 Each Well received (10uL reactions)
+
 	-TaqMan® Genotyping Master Mix		5uL
 	-SymC_For Primer (50nM)				1uL
 	-SymC_Rev Primer (75nM)				1uL
