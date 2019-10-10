@@ -3,7 +3,7 @@ layout: post
 title: Mcap qPCR Trials
 tags: [DNA, qPCR, PCR]
 ---
-###qPCR of Master's Thesis Mcap Color Morphs and Subsequent Troubleshooting
+###qPCR of Master's Thesis Mcap Color Morphs and Subsequent Troubleshooting###
 
 _Resuspension_ *Completed on 20191003
 
