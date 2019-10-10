@@ -97,14 +97,14 @@ Samples Run Today: (All run in triplicate - 24 wells today used; A1-B12)
 	
 Each Well received (20uL reactions)
 
-	-TaqMan® Genotyping Master Mix		10uL
+	-TaqMan® Genotyping Master Mix			10uL
 	-SymC_For Primer (50nM)				1uL
 	-SymC_Rev Primer (75nM)				1uL
 	-SymD_For Primer (50nM)				1uL
 	-SymD_Rev Primer (75nM)				1uL
 	-SymC_For Probe (100nM)				1uL
 	-SymD_Rev Probe (100nM)				1uL
-	-Ultra Pure Water					2uL (All primers, probes, water, and MM made into Mastermix - multiplied each by 24.2; additional 0.2 for pipette error)
+	-Ultra Pure Water				2uL (All primers, probes, water, and MM made into Mastermix - multiplied each by 24.2; additional 0.2 for pipette error)
 	
 	-DNA/Water/TE Buffer 				1uL
 	
