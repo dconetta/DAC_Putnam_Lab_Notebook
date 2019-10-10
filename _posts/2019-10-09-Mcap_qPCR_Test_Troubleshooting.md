@@ -183,6 +183,7 @@ Since there was no clear amplification of the PCR today (20191010) I decided to 
 **Seems to be a serious gap in Nanodrop and Qubit and Gel quantifications of DNA present
 
 Plan of attack
+
 	1) Requbit DNA again
 	2)Run PCR with actual PCR Mastermix not TaqMan® Genotyping Mix	
 		-Will run the six samples at three different dilutions (1:1, 1:10, 1:50) to see if can get anything to work
