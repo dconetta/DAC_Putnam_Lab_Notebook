@@ -81,17 +81,18 @@ IDTDNA Resuspension Instructions
 _qPCR _Plate _Test_ *Run on 20191007, Results with Janet and Gel on 20191008
 
 Samples Run Today: (All run in triplicate - 24 wells today used; A1-B12)
-	**Sample ID								Wells in Plate
-	Control (Water Input)					A1-A3
-	Extraction Control (TE Buffer Input)	A4-A6
-	B1_t=0									A7-A9
-	B5_t=0									A10-A12
-	B6_t=0									B1-B3
-	O9_t=0									B4-B6
-	O11_t=0									B7-B9
-	O13_t=0									B10-B12
+|**Sample ID||Wells in Plate|
+|Control (Water Input)|A1-A3|
+|Extraction Control (TE Buffer Input)|A4-A6|
+|B1_t=0|A7-A9|
+|B5_t=0|A10-A12|
+|B6_t=0|B1-B3|
+|O9_t=0|B4-B6|
+|O11_t=0|B7-B9|
+|O13_t=0|B10-B12|
 	
 Each Well received (20uL reactions)
+
 	-TaqMan® Genotyping Master Mix		10uL
 	-SymC_For Primer (50nM)				1uL
 	-SymC_Rev Primer (75nM)				1uL
