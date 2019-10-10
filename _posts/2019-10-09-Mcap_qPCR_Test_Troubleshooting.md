@@ -5,7 +5,7 @@ tags: [DNA, qPCR, PCR]
 ---
 ###qPCR of Master's Thesis Mcap Color Morphs and Subsequent Troubleshooting###
 
-_Resuspension_ *Completed on 20191003
+_Resuspension_ *Completed on 20191003*
 
 Goal here is to make stock suspensions for the qPCR C and D Actin Primers and Probes - Run DNA through Qubit to make sure have enough
 
@@ -43,10 +43,10 @@ IDTDNA Resuspension Instructions
 |C_ACT_TAQ-Probe|100uM|100nM|1|
 |D_ACT_TAQ-Probe|100uM|100nM|1|
 
-**Summary Table of Nanodrop DNA Results from Hawaii after re-extractions
+**Summary Table of Nanodrop DNA Results from Hawaii after re-extractions**
 
 |Sample Date|Date of Re-extraction|Sample Id|Timepoint|Concentration(ng/uL)|260/280|260/230|
-|--------|--------|-----|-----|-----|-----|-----|
+|--------|--------|--------|--------|--------|--------|--------|
 |6/9/2017|6/21/2019|B1|0|140.4|2.03|1.43|	
 |6/9/2017|6/21/2019|B2|0|80.6|2.05|1.31|	
 |6/9/2017|6/21/2019|B3|0|73|2.09|1.21|	
@@ -62,7 +62,7 @@ IDTDNA Resuspension Instructions
 |6/9/2017|6/21/2019|O13|0|73.8|	1.95|1.1|	
 
 
-**Summary Table of BR DNA Qubit Results** - *Completed on 20191003
+**Summary Table of BR DNA Qubit Results** - *Completed on 20191003*
 
 |Sample Id|Sample Type|Concentration 1 (ng/uL)|Concentration 2 (ng/uL)|Avg Concentration (ng/uL)|
 |--------|--------|----------|----------|----------|
@@ -82,11 +82,11 @@ IDTDNA Resuspension Instructions
 |O12_t=0|Orange Color Morph|2.86|2.82|2.84|
 |O13_t=0|Orange Color Morph|14.9|14.7|14.8|
 
-_qPCR _Plate _Test_ *Run on 20191007, Results with Janet and Gel on 20191008
+_qPCR _Plate _Test_ *Run on 20191007, Results with Janet and Gel on 20191008*
 
 Samples Run Today: (All run in triplicate - 24 wells today used; A1-B12)
 
-|**Sample ID|Wells in Plate|
+|**Sample ID|Wells in Plate**|
 |--------|--------|
 |Control (Water Input)|A1-A3|
 |Extraction Control (TE Buffer Input)|A4-A6|
@@ -110,7 +110,7 @@ Each Well received (20uL reactions)
 	
 	-DNA/Water/TE Buffer 				1uL
 	
-*qPCR Machine Operation
+*qPCR Machine Operation*
 
 1) Open Program on qPCR computer (it is in the middle of the desktop - forgot what it is called)
 2) Log-in	
@@ -134,7 +134,7 @@ Each Well received (20uL reactions)
 	
 6) Select "Relative Quantification" to tell machine what to look for
 	
-*Results
+*Results*
 	Went up with Janet the next day to export the data and from the fluorescent history and it looked like absolutely nothing amplified
 	
 	So ran a gel on the qPCR product from the qPCR run - Also did not get any bands (5uL of qPCR product with 1uL of Loading Dye on a 1% agarose gel run at 100V for 45mins - 100kb Ladder)
@@ -149,7 +149,8 @@ ________________________________________________________________________________
 In light of the lack of amplification I decided to run just a PCR to see if I could get any amplifications with just a regular PCR! 
 
 Samples Run Today: (All run in triplicate - 24 wells today used; A1-B12)
-	**Sample ID									
+
+	**Sample ID**								
 	B1_t=0									
 	B5_t=0									
 	B6_t=0									
@@ -186,7 +187,7 @@ Since there was no clear amplification of the PCR today (20191010) I decided to 
 
 ![20191010_Mcap_t=0_DNA-Gel]({{ site.baseurl}}/images/20191010_Mcap_t=0_DNA-Gel.JPG "20191010_Mcap_t=0_DNA-Gel")
 
-**Seems to be a serious gap in Nanodrop and Qubit and Gel quantifications of DNA present
+**Seems to be a serious gap in Nanodrop and Qubit and Gel quantifications of DNA present**
 
 Plan of attack
 
