@@ -86,7 +86,7 @@ _qPCR _Plate _Test_ *Run on 20191007, Results with Janet and Gel on 20191008
 
 Samples Run Today: (All run in triplicate - 24 wells today used; A1-B12)
 
-|**Sample ID||Wells in Plate|
+|**Sample ID|Wells in Plate|
 |--------|--------|
 |Control (Water Input)|A1-A3|
 |Extraction Control (TE Buffer Input)|A4-A6|
