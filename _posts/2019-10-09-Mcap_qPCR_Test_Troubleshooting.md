@@ -31,7 +31,7 @@ IDTDNA Resuspension Instructions
 	- 1 uL of 100uM Forward Primers
 
 |Primer Id|Resuspended Stock Concentration|Aliquot Concentration|# of Aliquots|
-|----|-----|-----|-----|
+|-------|-----|-----|-----|
 |C_ACT_For|100uM|50nM|4|
 |C_ACT_Rev|100uM|75nM|4|
 |D_ACT_For|100uM|50nM|4|
@@ -39,9 +39,10 @@ IDTDNA Resuspension Instructions
 |C_ACT_TAQ-Probe|100uM|100nM|1|
 |D_ACT_TAQ-Probe|100uM|100nM|1|
 
-**Summary Table of Nanodrop DNA Results from Hawaii after re-extractions**
+**Summary Table of Nanodrop DNA Results from Hawaii after re-extractions
+
 |Sample Date|Date of Re-extraction|Sample Id|Timepoint|Concentration(ng/uL)|260/280|260/230|
-|----|-----|-----|-----|-----|-----|-----|
+|--------|--------|-----|-----|-----|-----|-----|
 |6/9/2017|6/21/2019|B1|0|140.4|2.03|1.43|	
 |6/9/2017|6/21/2019|B2|0|80.6|2.05|1.31|	
 |6/9/2017|6/21/2019|B3|0|73|2.09|1.21|	
@@ -60,7 +61,7 @@ IDTDNA Resuspension Instructions
 **Summary Table of BR DNA Qubit Results** - *Completed on 20191003
 
 |Sample Id|Sample Type|Concentration 1 (ng/uL)|Concentration 2 (ng/uL)|Avg Concentration (ng/uL)|
-|----|-----|-----|-----|-----|
+|--------|--------|----------|----------|----------|
 |Standard1|Standard|165.99|NA|NA|
 |Standard2|Standard|23,383.96|NA|NA|
 |B1_t=0|Brown Color Morph|6.14|6.00|6.07|
