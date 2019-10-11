@@ -3,7 +3,7 @@ layout: post
 title: Mcap qPCR Trials
 tags: [DNA, qPCR, PCR]
 ---
-###qPCR of Master's Thesis Mcap Color Morphs and Subsequent Troubleshooting###
+### qPCR of Master's Thesis Mcap Color Morphs and Subsequent Troubleshooting
 
 _Resuspension_ *Completed on 20191003*
 
@@ -113,9 +113,11 @@ Each Well received (20uL reactions)
 *qPCR Machine Operation*
 
 1) Open Program on qPCR computer (it is in the middle of the desktop - forgot what it is called)
+
 2) Log-in	
 	- Username: Putnam Lab
 	- Roche480
+	
 3) Open Template
 	- Created a template called "SymC_D_Multiplex" 
 	- This template is created from Ross Cunning's 2016 Excess Algal Symbiont Paper (MEPS Paper)
@@ -126,8 +128,10 @@ Each Well received (20uL reactions)
 			- 45 Cycles of (Ross's was 40 Cycles but we did an extra five just incase - you can stop it when the fluorescence levels off with "Stop Run" NOT ABORT, ABORT gets you no data!)
 				- 95C for 10 sec
 				- 60C for 1 mins
+				
 4) Check the Type of Dyes are being measured
 	-3 Dye Hydrolosis and VIC and FAM should be selected (reporter Dyes that are used in the Probes we ordered)
+	
 5)Under Plate Set-Up Tab
 	a) Label all the wells and put both reporter dyes in each well
 	b) Labeled as Unknown Targets
