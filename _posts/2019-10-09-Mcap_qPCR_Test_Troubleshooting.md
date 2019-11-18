@@ -186,6 +186,9 @@ Once again no bands present in gel (5uL of qPCR product with 1uL of Loading Dye 
 
 ![PCR_Test_2_20191009]({{ site.baseurl}}/images/post-qPCR_Test_20191008.jpg "PCR_Test_2_20191009")
 
+___________________________________________________________________________________________________
+*20191010
+
 Since there was no clear amplification of the PCR today (20191010) I decided to run a gel on just the DNA I have extracted and this is what I got
 (5uL of qPCR product with 1uL of Loading Dye on a 1% agarose gel run at 100V for 45mins - 100kb Ladder)
 
@@ -199,3 +202,40 @@ Plan of attack
 	2)Run PCR with actual PCR Mastermix not TaqMan® Genotyping Mix	
 		-Will run the six samples at three different dilutions (1:1, 1:10, 1:50) to see if can get anything to work
 			Maybe too much DNA present?
+			
+___________________________________________________________________________________________________
+*20191011
+
+Today tried running a PCR with different dilution factors with the most concentrated DNA extracted samples (B1, B5, B6, O9, O11, and O13) for t=0 time point
+
+	Thought that this would help identify the problem with the lack of amplification
+	
+Dilution Factors were: 1:1, 1:10, and 1:50 for each samples
+	
+	So in the gel they were well 2 was B1 (1:1), well 3 was B1 (1:10), well 4 was B1 (1:50), etc.
+
+Each Well received (15uL reactions) - I do not remember why I decided on this volume
+
+	-TaqMan® Genotyping Master Mix		5uL
+	-SymC_For Primer (50nM)				2uL
+	-SymC_Rev Primer (75nM)				2uL
+	-SymD_For Primer (50nM)				2uL
+	-SymD_Rev Primer (75nM)				2uL (All primers, probes, and MM made into Mastermix - multiplied each by 6.2; additional 0.2 for pipette error)
+
+	-DNA								1uL
+
+PCR Run:
+
+	a) Pre Incubation
+			- 50C for 2 mins
+			- 95C for 10 mins
+	b) PCR 
+		- 40 Cycles of 
+			- 95C for 10 sec
+			- 60C for 1 mins
+			
+Once again no bands present in gel (5uL of qPCR product with 1uL of Loading Dye on a 1% agarose gel run at 100V for 45mins - 100kb Ladder)
+
+	Also should note that when making the master mix I kept having to make more and more of it because something in my calculations was off. Basically this was a huge mess
+	
+![20191011_Mcap_t=0_DNA-Gel_Dilutions]({{ site.baseurl}}/images/PCR_Test_3_Dilutions_20191011.JPG "20191011_Mcap_t=0_DNA-Gel_Dilutions")
