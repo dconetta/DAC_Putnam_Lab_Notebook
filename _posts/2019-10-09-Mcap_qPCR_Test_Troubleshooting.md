@@ -24,7 +24,7 @@ IDTDNA Resuspension Instructions
 	- 999.5uL of Ultra Pure H2O
 	- 0.5uL of 100uM Forward Primers
 	
-0.75uL of Forward Primers 100uM required in 1000uL diluted aliquots to get 50nM
+0.75uL of Reverse Primers 100uM required in 1000uL diluted aliquots to get 75nM
 
 	- 999.25uL of Ultra Pure H2O
 	- 0.75uL of 100uM Forward Primers
