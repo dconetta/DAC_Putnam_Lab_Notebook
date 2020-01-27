@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mcap qPCR Trials
+title: Mcap qPCR Summary To Date
 tags: [DNA, qPCR, PCR]
 ---
 ### qPCR of Master's Thesis Mcap Color Morphs and Subsequent Troubleshooting
@@ -149,11 +149,11 @@ PCR Run:
 
 Gels: 1% Agarose Gel (.75g Agarose in 75mL of 1X TAE) Run at 100V for 60 minutes 
 
-	- Gel Run on 20191118 = All my samples 
+Gel Run on 20191118 = All my samples 
 	
-	![Labeled_PCR_Test_4_20191118]({{ site.baseurl}}/images/Labeled_PCR_Test_4_20191118.jpg "PCR_Test_4_20191118")
+![Labeled_PCR_Test_4_20191118]({{ site.baseurl}}/images/Labeled_PCR_Test_4_20191118.jpg "PCR_Test_4_20191118")
 	
-	- Gel Run on 20191119 = Positive Controls (ITS_2 Amplicon Samples)
+Gel Run on 20191119 = Positive Controls (ITS_2 Amplicon Samples)
 	
-	![Labeled_PCR_Test_4_20191119]({{ site.baseurl}}/images/Labeled_PCR_Test_4_20191119.jpg "PCR_Test_4_20191119")
+![Labeled_PCR_Test_4_20191119]({{ site.baseurl}}/images/Labeled_PCR_Test_4_20191119.jpg "PCR_Test_4_20191119")
 	
